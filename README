@@ -1,0 +1,8 @@
+# My Static Site
+
+This is a simple static site for learning DevOps
+Notice that it's deployed automatically to Render via GitHub Actions.
+
+## Deployed site
+
+[Visit the live site](https://devops-2pia.onrender.com)
